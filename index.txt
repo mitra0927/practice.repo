@@ -3,5 +3,5 @@ second line of code
 third line of code
 fourth line of code
 fifth line of code
-change on master
-change on f3
+change from master
+change from f3
